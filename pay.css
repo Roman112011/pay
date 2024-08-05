@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(139, 99, 99);
+    margin: 0;
+    padding: 0;
+}
+form{
+    margin-top: 250px;
+    margin-left: 450px;
+    border: 10px double rgb(59, 58, 58);
+    border-radius: 25px;
+    display: inline-block;
+}
+input{
+    margin: 25px;
+    border: 6px solid rgb(59, 58, 58);
+    border-radius: 25px;
+}
+button{
+    margin-left: 200px;
+    margin-top:25px;
+    border: 6px solid rgb(59, 58, 58);
+    border-radius: 25px;
+}
